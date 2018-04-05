@@ -1,0 +1,9 @@
+Building Euncoin
+
+See doc/readme-qt.rst for instructions on building Euncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Euncoin.
+
+See doc/build-*.txt for instructions on building euncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Euncoin.
